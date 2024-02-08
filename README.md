@@ -1,2 +1,3 @@
-# Learning Git Class 
-This is very interesting!!!.
+# Learning Git Class
+
+This is a real description!!.
